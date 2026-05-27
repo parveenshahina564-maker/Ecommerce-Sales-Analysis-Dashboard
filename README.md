@@ -21,7 +21,7 @@ KPI Cards & Charts — Revenue, orders, profit, customer metrics, and product pe
 CSV / Excel Dataset — Source data for sales analysis
 
 Data source:
-- <a herf ="https://docs.google.com/spreadsheets/d/1L6aBX0uNlzKiJb7JHdkNUile18s9CI4r/edit?usp=sharing&ouid=102089435728598828389&rtpof=true&sd=true">
+- <a href="https://docs.google.com/spreadsheets/d/1L6aBX0uNlzKiJb7JHdkNUile18s9CI4r/edit?usp=sharing&ouid=102089435728598828389&rtpof=true&sd=true">Dataset view</a>
 
 Features:
 .Interactive Excel dashboard for e-commerce sales analysis
